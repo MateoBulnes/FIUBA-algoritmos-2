@@ -1,0 +1,46 @@
+G;Ciudad Plateada;2;2
+L;Brock
+P;Onix;20;70;90
+P;Geodude;60;25;30
+E;Ash
+P;Pikachu;10;50;30
+G;Ciudad Celeste;3;1
+L;Misty
+P;Ivi;50;40;80
+P;Charizard;90;70;10
+E;Bruno
+P;Bulbazor;10;20;70
+P;Rattata;15;10;6
+G;Ciudad Carmin;1;4
+L;Bonnie
+P;Venusaur;20;50;90
+P;Staryu;50;40;50
+P;Starmie;90;50;60
+E;Cris
+P;Horsea;45;60;20
+P;Shellder;30;20;45
+E;Serena
+P;Psyduck;55;52;48
+P;Golduck;56;48;60
+G;Ciudad Iris;5;3
+L;May
+P;Blastoise;15;60;70
+P;Ninetales;70;10;90
+P;Magneton;40;40;33
+P;Farfetch'd;50;32;55
+P;Mankey;57;28;35
+P;Primeape;49;50;60
+E;Aura
+P;Arcanine;25;35;40
+P;Doduo;63;30;45
+G;Ciudad Olivo;4;5
+L;Clemont
+P;Rapidash;30;50;45
+P;Golem;60;50;10
+P;Starmie;90;50;30
+E;Max
+P;Seel;30;40;60
+P;Seadra;50;10;60
+E;Tracey
+P;Vaporeon;35;55;70
+P;Flareon;50;10;45

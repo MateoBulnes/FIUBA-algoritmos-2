@@ -1,0 +1,10 @@
+E;Mate
+P;Pikachu;30;70;60
+P;Charmander;40;80;50
+P;Bulbazor;10;60;90
+P;Jolteon;100;30;30
+P;Onix;15;80;95
+P;Squirtle;25;40;30
+P;Beedrill;80;15;5
+P;Pidgeot;90;40;35
+P;Vulpix;5;40;50
